@@ -1,0 +1,1 @@
+This program is a simple CLI-based Hangman game.
